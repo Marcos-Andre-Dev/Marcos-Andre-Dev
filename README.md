@@ -4,7 +4,7 @@
 ### About me
 My name is Marcos André, I am a Brazilian student of Information Systems, passionate about programming, technology, minimalism, series, movies, books, music and programming! 💻
 
-I am currently working at [Newcon Software S / A](https://www.newconsoftware.com.br/newcon/site/index.aspx) as a Web Developer, using C# | React | ASP.NET | .NET Core
+I am currently working at [Newcon Software S/A](https://www.newconsoftware.com.br/newcon/site/index.aspx) as a Web Developer, using C# | React | ASP.NET | .NET Core
 
 I’m currently learning React and UX/UI Design!
 
