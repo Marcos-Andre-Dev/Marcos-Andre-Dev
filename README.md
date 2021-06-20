@@ -14,10 +14,10 @@ I’m currently learning React and UX/UI Design!
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/marcosss_andre)](https://twitter.com/marcosss_andre)
 
 ### GitHub Stats
-[![Marcos Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-Andre-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/Marcos-Andre-Dev/github-readme-stats)
-[![Marcos Dev Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Andre-Dev&layout=compact&langs_count=16&theme=dracula)](https://github.com/Marcos-Andre-Dev/github-readme-stats)
+[![Marcos Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosandredev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/marcosandredev/github-readme-stats)
+[![Marcos Dev Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosandredev&layout=compact&langs_count=16&theme=dracula)](https://github.com/marcosandredev/github-readme-stats)
 
-![Snake animation](https://github.com/Marcos-Andre-Dev/Marcos-Andre-Dev/blob/main/Snake.svg)
+![Snake animation](https://github.com/marcosandredev/marcosandredev/blob/main/Snake.svg)
 
 <!--
 **Marcos-Andre-Dev/Marcos-Andre-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
