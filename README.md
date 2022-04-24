@@ -6,7 +6,7 @@ My name is Marcos André, I am a Brazilian student of Information Systems, passi
 
 I am currently working at [Newcon Software S/A](https://www.newconsoftware.com.br/newcon/site/index.aspx) as a Web Developer, using C# | React | ASP.NET | .NET Core
 
-I’m currently learning React and UX/UI Design!
+I’m currently learning Swift and SwiftUI!
 
 ### My Social Networks
 [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&labelColor=5865F2&logo=discord&logoColor=white&link=https://discord.gg/hBWHZ8e)](https://discord.gg/hBWHZ8e)
